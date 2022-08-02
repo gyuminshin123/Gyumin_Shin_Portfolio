@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Gyumin_Portfolio
+Developer portfolio
 
-You can use the [editor on GitHub](https://github.com/gyuminshin123/Gyumin_Shin_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project 1: Designing a Calculator app 
+* Designed a ios calculator application using the xCode project
+* Added buttons and labels on the main storyboard to utlize the stack feature Swift provides
+* Utilized constraint features to easily make buttons for all the keys necessary to build a calcuator
+* Used Attributor Inspector to change colors and fonts of the labels and buttons
+* Utilized Size Inspector to make necessary changes in mulitpliers and constriants for the design to be truly similar to ios calculator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gyuminshin123/Gyumin_Shin_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am Gyumin Shin, a third-year undergraduate at UC Riverside. Through competitive selection process of Apple Coding Design Internship opportunity, I became an intern for the Apple Coding Project. My teammates and I talk with client to find their needs to implement their reIMAGEINE and HERO program that reinforces young student's mental health. My cohort's goal is to design an ios application that would implement progressive module system that direct K-8th grade users to learn about great characterisitics such as Empathy, Kindness and more through 10 month period. 
