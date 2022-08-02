@@ -9,7 +9,7 @@ Developer Portfolio
 * Used Attributer inspector to change any fonts or colors to match the true app
 * Utilized Size inspector to change any constraints to organize the buttons of the app
 
-
+![](https://github.com/gyuminshin123/Gyumin_Shin_Portfolio/blob/3a94c9f9c3cbe85164b64ab926c592c70ec83377/Screen%20Shot%202022-08-01%20at%2011.19.02%20PM.png)
 
 
 ### About Me
